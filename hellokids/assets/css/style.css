@@ -1331,7 +1331,7 @@ header .main-menu .menu_cart .check_out {
 }
 
 .banner .banner-item {
-    background-image: url('/images/banner_01-01.jpg');
+    background-image: url('../../images/banner_01-01.jpg');
     background-size: cover;
 
 position: relative;
@@ -1340,11 +1340,11 @@ height: 550px;
 }
 
 .banner .banner-item.slide-two {
-    background-image: url(../../images/banner/banner_02.jpg);
+    background-image: url('../../images/banner_01-01.jpg');
 }
 
 .banner .banner-item.slide-three {
-    background-image: url(../../images/banner/banner_03.jpg);
+    background-image:url('../../images/banner_01-01.jpg');
 }
 
 .banner .banner-item .banner-overlay {
@@ -1357,7 +1357,7 @@ height: 550px;
 }
 
 .banner .banner-item .banner-content {
-    padding: 250px 0px;
+    padding: 122px 0px;
 }
 
 .banner .banner-item .banner-content h3 {
@@ -1632,7 +1632,7 @@ height: 550px;
 /*  04  - Page Header
 ----------------------------------------------*/
 .page-header {
-    background-image: url(/images/bg_grass.jpg);
+    background-image: url(../../images/bg_grass.jpg);
     background-size: cover;
     background-position: center;
     margin: 0px;
