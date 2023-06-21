@@ -6675,3 +6675,178 @@ header .main-menu ul li a {
 	text-decoration: none;
 	display: inline-block;
 }
+
+@media only screen 
+  and (min-device-width: 210px) 
+  and (max-device-width:320px)
+{
+
+    .m-menu>li:nth-child(1) a,.m-menu>li:nth-child(2) a,.m-menu>li:nth-child(3) a,.m-menu>li:nth-child(4) a,.m-menu>li:nth-child(4) a,.m-menu>li:nth-child(5) a {
+        
+        font-size: 16px !important;
+    
+        color: #0053a6 !important;
+        
+    }
+    .banner .banner-item {
+        background-image: url('../../images/banner_01-01.jpg');
+        background-size: cover;
+        position: relative;
+        /* background-repeat: no-repeat; */
+        height: 550px;
+        background-position-x: -700px;
+    }
+    .banner .banner-item .banner-content h3 {
+        font-size: 13px !important;
+    }
+    .banner .banner-item .banner-content h2 {
+        font-size: 12px !important;
+    }
+    .classes .class-item .schedule li {
+        width: 50% !important;
+    }
+    .teachers .teacher-item {
+        background-color: #92278f;
+        overflow: hidden;
+        margin-bottom: 30px;
+        height: 382px !important;
+    }
+    .testimonial {
+        background: url('https://www.bambinokidz.com/uploads/cover.png');
+        background-size: contain;
+        background-position-y: bottom;
+        height: 568px !important;
+        background-repeat: no-repeat;
+    }
+}
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+{
+    .m-menu>li:nth-child(1) a,.m-menu>li:nth-child(2) a,.m-menu>li:nth-child(3) a,.m-menu>li:nth-child(4) a,.m-menu>li:nth-child(4) a,.m-menu>li:nth-child(5) a {
+        
+        font-size: 16px !important;
+    
+        color: #0053a6 !important;
+        
+    }
+    .banner .banner-item {
+        background-image: url('../../images/banner_01-01.jpg');
+        background-size: cover;
+        position: relative;
+        /* background-repeat: no-repeat; */
+        height: 550px;
+        background-position-x: -700px;
+    }
+    .banner .banner-item .banner-content h3 {
+        font-size: 13px !important;
+    }
+    .banner .banner-item .banner-content h2 {
+        font-size: 12px !important;
+    }
+    .classes .class-item .schedule li {
+        width: 50% !important;
+    }
+   
+    .teachers .teacher-item {
+        background-color: #92278f;
+        overflow: hidden;
+        margin-bottom: 30px;
+        height: 382px !important;
+    }
+    .testimonial {
+        background: url('https://www.bambinokidz.com/uploads/cover.png');
+        background-size: contain;
+        background-position-y: bottom;
+        height: 815px !important;
+        background-repeat: no-repeat;
+    }
+}
+@media only screen 
+  and (min-device-width:480px) 
+  and (max-device-width:620px)
+{
+    .m-menu>li:nth-child(1) a,.m-menu>li:nth-child(2) a,.m-menu>li:nth-child(3) a,.m-menu>li:nth-child(4) a,.m-menu>li:nth-child(4) a,.m-menu>li:nth-child(5) a {
+        
+        font-size: 16px !important;
+    
+        color: #0053a6 !important;
+        
+    }
+    .banner .banner-item {
+        background-image: url('../../images/banner_01-01.jpg');
+        background-size: cover;
+        position: relative;
+        /* background-repeat: no-repeat; */
+        height: 550px;
+        background-position-x: -700px;
+    }
+    .banner .banner-item .banner-content h3 {
+        font-size: 13px !important;
+    }
+    .banner .banner-item .banner-content h2 {
+        font-size: 12px !important;
+    }
+    .classes .class-item .schedule li {
+        width: 50% !important;
+    }
+    .teachers .teacher-item {
+        background-color: #92278f;
+        overflow: hidden;
+        margin-bottom: 30px;
+        height:270px !important;
+    }
+    .testimonial {
+        background: url('https://www.bambinokidz.com/uploads/cover.png');
+        background-size: contain;
+        background-position-y: bottom;
+        height: 815px !important;
+        background-repeat: no-repeat;
+    }
+    .banner .banner-item .banner-content p {
+        color: #fff;
+        max-width: 509px !important;
+        transition: .3s ease-out;
+        -webkit-transition: .3s ease-out;
+        transition-delay: 1s;
+        -webkit-transition-delay: 1s;
+        opacity: 1;
+    }
+    .scroll-top {
+        right: 3%;
+       
+    }
+}
+@media only screen 
+  and (min-device-width:620px) 
+  and (max-device-width:720px)
+  {
+    .classes .class-item .schedule li {
+        width: 50% !important;
+    }
+    .m-menu>li:nth-child(1) a,.m-menu>li:nth-child(2) a,.m-menu>li:nth-child(3) a,.m-menu>li:nth-child(4) a,.m-menu>li:nth-child(4) a,.m-menu>li:nth-child(5) a {
+        
+        font-size: 16px !important;
+    
+        color: #0053a6 !important;
+        
+    }
+  }
+@media only screen 
+  and (min-device-width:720px) 
+  and (max-device-width:820px)
+  {
+
+
+}
+@media only screen 
+  and (min-device-width:820px) 
+  and (max-device-width:1200px)
+  {
+
+
+
+
+
+}
+
